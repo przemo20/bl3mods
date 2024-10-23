@@ -35,7 +35,7 @@ import textwrap
 import subprocess
 
 # Default external commands we call
-cmd_serialize = '/home/pez/bin/ueserialize'
+cmd_serialize = 'john-wick-parse.exe'
 
 def main():
 
@@ -58,7 +58,7 @@ def main():
             help='DialogScript filename',
             )
 
-    parser.add_argument('guids',
+    parser.add_argument('-guids',
             nargs='+',
             type=str,
             help='GUID',
@@ -86,26 +86,58 @@ def main():
         raise RuntimeError('Could not find {}'.format(json_path))
 
     # Collect GUIDs into a set
-    guid_set = set(args.guids)
+    #guid_set = set(args.guids)
 
     # Get results
     results = {}
-    with open(json_path) as df:
+    with open(json_path, encoding='utf-8') as df:
         data = json.load(df)
         for export in data:
-            if export['export_type'] == 'DialogTimeSlotData':
-                if export['Guid'] in guid_set:
+            if export['export_type'] == 'DialogScriptData':
+                #if export['Guid'] in guid_set:
                     guid = export['Guid']
                     results[guid] = []
-                    for line_idx, line in enumerate(export['Lines']):
-                        linedata = data[line['export']-1]
-                        for perf_idx, perf in enumerate(linedata['Performances']):
-                            perfdata = data[perf['export']-1]
-                            text = perfdata['Text']['string']
-                            results[guid].append(f'{guid} | {line_idx} | {perf_idx} | {text}')
+                    try:
+                        for time_idx, time in enumerate(export['TimeSlots']):
+                            timeslotdata = data[time['export']-1]
+                            for line_idx, line in enumerate(timeslotdata['Lines']):
+                                linedata = data[line['export']-1]
+                                try:
+                                    speaker = linedata['SpeakingCharacter'][0]
+                                    if 'DialogEnumValue_Character_PL' in speaker:
+                                        match speaker:
+                                            case 'DialogEnumValue_Character_PL_BEASTMASTER':
+                                                speaker = 'FL4K'
+                                            case 'DialogEnumValue_Character_PL_GUNNER':
+                                                speaker = 'Moze'
+                                            case 'DialogEnumValue_Character_PL_OPERATIVE':
+                                                speaker = 'Zane'
+                                            case 'DialogEnumValue_Character_PL_SIREN':
+                                                speaker = 'Amara'
+                                            case _:
+                                                speaker = speaker
+                                    else:
+                                        speaker = speaker.removeprefix('DialogEnumValue_Character_').replace('_', ' ').title()
+                                except KeyError as e:
+                                    print(f'*** {e.args[0]} key for GUID {linedata['Guid']} is missing! ***')
+                                    speaker = '<missing>'
+                                for perf_idx, perf in enumerate(linedata['Performances']):
+                                    perfdata = data[perf['export']-1]
+                                    try:
+                                        text = perfdata['Text']['string']
+                                        text_key = perfdata['Text']['key']
+                                        SoundFileName = perfdata['WwiseEventShortID']
+                                    except KeyError as e:
+                                        print(f'*** {e.args[0]} key for GUID {perfdata['Guid']} is missing! ***')
+                                        text_key = '<missing>'
+                                        text = '<missing>'
+                                        SoundFileName = '<missing>'
+                                    results[guid].append(f'{time_idx} | {line_idx} | {perf_idx} | {SoundFileName : >12} | {text_key} | {speaker}: {text}')
+                    except KeyError as e:
+                        print(f'*** {e.args[0]} key for GUID {guid} is missing! ***')
 
     # Report on results
-    for guid in args.guids:
+    #for guid in args.guids:
         if guid in results:
             for line in results[guid]:
                 print(line)
@@ -115,4 +147,5 @@ def main():
             print('')
 
 if __name__ == '__main__':
+    sys.stdout.reconfigure(encoding='utf-8')
     main()
