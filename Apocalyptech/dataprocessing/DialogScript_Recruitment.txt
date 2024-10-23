@@ -1,0 +1,147 @@
+0 | 0 | 0 |   2647605608 | 65A6C6414DF439414EF1EC9CDB044236 | Marcus: New Vault Hunter, eh? Name's Marcus. You picked a helluva time to join the Crimson Raiders, heh-heh.
+1 | 0 | 0 |    669499878 | B5B5F6B14C3CB5A5358EE289159F2EB1 | Lilith: Good to see someone survived the attack. I'm Lilith, Commander of the Crimson Raiders. Those bandits you fought are part of a cult hunting for the Vault Map, but you and I are gonna find it first. For now, my scout is waiting for you up ahead. Good luck.
+2 | 0 | 0 |     19425551 | 740C01484214C4DC27FED1BD0948415C | Moze: Voice in my head. Weird.
+2 | 1 | 0 |   1410909862 | CDA4DE454B84D934B27212890C5C6297 | Amara: That voice. Was that another Siren?
+2 | 2 | 0 |   2684438687 | 51056BD3455C56A54CE420A71CCACE09 | FL4K: She spoke inside my mind. Strange.
+2 | 3 | 0 |   3686331208 | 2370B57643BDD78A09CBC5AC810BE2B1 | Zane: Lady in my head. Got it.
+3 | 0 | 0 |   2166939647 | 0A50BBFE42BD075669F7748D8899DA13 | Marcus: This is your stop, Vault Hunter.
+4 | 0 | 0 |   1955165560 | FA201BD14334427E9DAE7E9858356F52 | Moze: Good! I'm locked, loaded, and ready to loot.
+4 | 1 | 0 |   2229971847 | D1BFA9614DBAE509A4027EAF748A9856 | Amara: Finally. I'm itching for a fight.
+4 | 2 | 0 |   3934050931 | 7697A56F4B96F6C1F3A2B7AF1895EDCD | FL4K: Excellent. The hunt begins.
+4 | 3 | 0 |     17269458 | C663EDF04393E78B33E68584274C1AC3 | Zane: About time. Let's have some fun.
+5 | 0 | 0 |   4057162740 | 14CAAC4247D7B1BE69E2418A92337E5C | Marcus: Try to stay alive. I'd hate to lose a new customer, heh-heh.
+6 | 0 | 0 |   2046929611 | 34ACCCA6407996200812F9870161321A | Marcus: And welcome to Pandora!
+7 | 0 | 0 |     31561064 | 7206F816430957D6E7B0D2A19FA206E6 | Claptrap: Hey! You must be the new recruit! I am a CL4P-TP steward bot, but you can just call me... General Claptrap of the Crimson Raiders! What's your name?
+8 | 0 | 0 |   3995398911 | FF2FDB4442C3E16D8FB2FFA617106E15 | Moze: Moze, Gunner First Class, ex-Vladof Mechanized Infantry.
+8 | 1 | 0 |   3646655560 | 501EB28A4204ED074A13DAAFE89EB5C9 | Amara: Surely you know who I am. The Tiger of Partali? Crime-fighter? Warrior for peace?||Gch. It's Amara.
+8 | 2 | 0 |   3150490917 | A70E27704AD352626BCA768230EE7C32 | FL4K: You are allowed to call me FL4K, until I decide if I am going to kill you.
+8 | 3 | 0 |   1866079271 | 4C1D243B42A2F15C977A75A8EAF0E1F3 | Zane: Zane. Zane Flynt.
+9 | 0 | 0 |   2505513257 | 61F65EEF43AD43796C1B63BB7E7BF4CD | Claptrap: Thanks! I'll pre-order your tombstone just in case. Now, those jerks who tried to murder you are the Children of the Vault, a bandit cult who follow their creepy leaders with blind devotion. Which reminds me—if you're going to obey my every beck and call, you'll need an ECHO device!
+10 | 0 | 0 |    387773694 | 1D5515C0434A959FBDDEB790ABD47D6D | Claptrap: Try it out! I rinsed it off myself!
+11 | 0 | 0 |   3658781335 | F63DF4074521634049ED9D98B722D31F | Claptrap: Take it!
+11 | 0 | 1 |    349198378 | 1560167340EB0FB324FC8DB288C2C6FE | Claptrap: Take the ECHO, recruit!
+11 | 0 | 2 |   2459456369 | D377BEAD4852A53E7FCC29A51E753ABE | Claptrap: Don't you like free stuff? Take it!
+11 | 0 | 3 |   2282349942 | BD793CE24036C838372A6699BE25C463 | Claptrap: We can't get to the shooting and looting part until you take the ECHO!
+12 | 0 | 0 |    471653836 | 501FAF2941DE83166E93DFA8AC5A2A83 | Moze: Cool.
+12 | 1 | 0 |   2196327630 | 34B3C221459EEFAC0D132881BCF5A0FB | Amara: Ooh, high-tech.
+12 | 2 | 0 |   3819220593 | B06165924410B757DB2DE1BEE8F3F9E5 | FL4K: Useful.
+12 | 3 | 0 |   3607986607 | F79A74AF4EE03A9B06CA94B09564DE83 | Zane: Love a good gadget.
+13 | 0 | 0 |   2603945698 | E81FAB6944C94C2D00C7498BC7E4E313 | Claptrap: The ECHO-3. Slightly more powerful than the ECHO-2, and twice as expensive. Besides, the ECHO-2 had a tiny issue with spontaneous combustion, so they rebranded those as grenades.
+14 | 0 | 0 |    383550514 | B5627A434EA91C084C1C29B92877C5EC | Claptrap: Now listen up, recruit. Lilith ordered us to take over a Children of the Vault propaganda center. Time to show those culty weirdos that no one messes with the Crimson Raiders! Follow me, recruit! TO GLORY!
+15 | 0 | 0 |   1436457227 | B63B8C5F4690A1B789003CB35925CE89 | Claptrap: This way, recruit!
+16 | 0 | 0 |   2963317688 | D91815F1444023E0D56D64B0D4C96495 | Claptrap: Follow me, recruit!
+17 | 0 | 0 |   4012158636 | 71AE40C04D9565EA64D6CCB177CE285F | Claptrap: I'm over heeeeere!
+17 | 0 | 1 |   2849403060 | 43E2658641FAE049AB041BB48C4EE886 | Claptrap: Let my melodious voice be your guide!
+17 | 0 | 2 |   4171370235 | 9FA360DD4418EBD40883E695308F8CF4 | Claptrap: Did you fall asleep standing up?
+17 | 0 | 3 |   3504247371 | A97BB0EF4E522E2951CF55BCC6DF61D8 | Claptrap: Follow me with blind devotion!
+18 | 0 | 0 |    540778396 | 0D97AC5A4AD1E707361872837C1F3CCF | Claptrap: Before we wreak our righteous vengeance, you'll need to register your ECHO at this Quick-Change!
+19 | 0 | 0 |   2406765814 | 743AF51B4937C1B2242BFF8A1E85F141 | Claptrap: Once we defeat the cult, I'll be famous! And when I'm signing autographs, I need you looking sharp while defending me from my legions of fans-slash-stalkers!
+20 | 0 | 0 |   2622588219 | 3119DD114043BA83BDB4219C93BDCAFD | Claptrap: Use the Quick-Change, recruit!
+20 | 0 | 1 |   1567644156 | F308E1084D3620CCD86141953CF92C20 | Claptrap: You look terrible! Use the Quick-Change already!
+20 | 0 | 2 |   2835603588 | E36F6C39477967635AB0BCAED56D7BC4 | Claptrap: More like Super-Slow-and-Boring Change! Because you're slow! And boring! And you haven't even changed your outfit yet!
+20 | 0 | 3 |   1860768515 | 360FDD954F88E2D7F3C4B4BF7F972E92 | Claptrap: Recruit. I'm on my non-existent knees here. Please... use the Quick-Change!
+20 | 0 | 4 |   3327055902 | CFC492EA4C705E12D43745872D111EC2 | Claptrap: In the name of the Almighty Robot Policeman, USE THE QUICK-CHANGE!
+21 | 0 | 0 |   4267714765 | 37830EEA4ACCB5161D31099B5F7026C7 | Claptrap: You look awful!||—ly attractive! Saved it.
+22 | 0 | 0 |    948911019 | CCCF75A448BEAD6A22E66E88D09DA009 | Claptrap: Ugh, a user agreement? Boring! Don't worry, corporations have our best interests at heart. Except Dahl. And Hyperion. Ehhhh... nevermind.
+23 | 0 | 0 |   1817934559 | 13D4BA5849AD69BF1A7EF9BCD9617824 | Claptrap: Ugh, a user agreement? Boring! I'll auto-accept that for you. No one reads those anyway!
+24 | 0 | 0 |   1714028087 | 554E7C87443990F1C81531B71526BEA6 | Claptrap: The propaganda center is this way!
+25 | 0 | 0 |   2735605528 | 780E0CFD4FDD6D844D01CEBC05FBAEF7 | Claptrap: A locked gate?! No! This can't be happening. The entire mission is ruined! Think, Claptrap, think! You're brave! And powerful! And people always do what you tell them to!||That's it!
+26 | 0 | 0 |    919462197 | A139BB974612FCC8C3D47BBF2964A414 | Claptrap: Recruit, get that gate open! That's an order from your superior officer!
+27 | 0 | 0 |   3798603573 | A20C6B764D600E3F15C5469C9E0E7A03 | Claptrap: How's it going? If I were you, and I'm super glad I'm not, I'd check that car over there.
+27 | 0 | 1 |   2573188223 | 8E81B4C84636264B6CC1D4ADAAE3D248 | Claptrap: Didja find a way to open the gate yet? The fate of Pandora depends on it maybe!
+27 | 0 | 2 |    532906064 | 58ED3C234B0DBFFB9D6AA69D2882D217 | Claptrap: Check that junk heap over there! That gate is really mucking up our mission! Mucking, I say!
+27 | 0 | 3 |   1030685903 | 6ADA02624843C808ABACBEAC8C11DFAC | Claptrap: Aww, man. We're never getting past this gate! I'll never be famous! Plus, justice and stuff.
+28 | 0 | 0 |   2558067350 | D7C7B8DE4D58D1FE43E667BE651CE0A9 | Claptrap: You did it! Best recruit EVER! But don't get cocky.
+29 | 0 | 0 |    779193497 | C048737B47A94688946AD49302BE0B5B | Claptrap: Jump, recruit!
+29 | 0 | 1 |   1885823646 | B66A1A534FF0FAD8780C57A7EA52BB48 | Claptrap: Leap across that chasm!
+29 | 0 | 2 |    638454790 | 7C7EAADD42CDFC920148699001CD98F3 | Claptrap: Have you never seen someone jump before?
+29 | 0 | 3 |    173503945 | 4F8FD8374AA223093CD32A8730F33769 | Claptrap: Do they not teach jumping in school anymore? Kids these days!
+30 | 0 | 0 |   4204661908 | 26B5E53B40C2B8BA60BAFF90DDEDB19D | Claptrap: To grab the ledge, jump, then jump again! I didn't say it made sense.
+30 | 0 | 1 |     77054004 | 87E0B91E4FA53CDACAED2AAB6F12D715 | Claptrap: Go on, use your beautiful and powerful arms to mantle over the ledge.
+30 | 0 | 2 |   1704621024 | F66BE39440FA09198ABEC4BA081694E6 | Claptrap: One jump just won't cut it! You need some kind of... double... jump to get up here.
+30 | 0 | 3 |    217181044 | D598D43249780BCD3E2761BFA71DCD6F | Claptrap: You came an awful long way to get stuck in a ditch! Pull yourself out, recruit!
+31 | 0 | 0 |   2464185908 | 2F294DD14EDC641F685348A6ED69CAFB | Claptrap: The propaganda center is up ahead. Those cultists have been killing Crimson Raiders left and right. They totally suck skag balls! But I've got a fool-proof plan to kick their culty asses!
+32 | 0 | 0 |   3701675674 | 7372880542834DB57CFC359F52BEB187 | Claptrap: I hid a weapons cache nearby. Stay quiet and follow my every move. It's STEALTH time!
+33 | 0 | 0 |   1779698465 | 13B17769427CB5779CA6FBBE32A7126A | Claptrap: Stealthy-time! Gonna walk over here, and—gonna turn! And I'm gonna go over here, super-duper quiet!||Tip-toein' over here, gonna spin around, I'm so—oof!||So quiet! So super-duper-duper-duper QUIET!||Oh, that was a bit too loud!||Stealth-slide!
+34 | 0 | 0 |    679218341 | DE5FF3004D2DF38AD32D7FAE9FCBD1F5 | Claptrap: Perfect! Once we complete our mission, Lilith HAS to promote me to Super-General!
+35 | 0 | 0 |   2318680530 | F77FB8E4491BB7EA8B736792AECDBF91 | Claptrap: Stand back!
+36 | 0 | 0 |     57779191 | C8BD4B14407C1C7227C90FA2979DBF69 | Moze: You did say “stealth”, right?
+36 | 1 | 0 |   4281805909 | 63AF40ED402B5DD0CDA94EAC405D65F4 | Amara: So we're throwing stealth out the window?
+36 | 2 | 0 |   1206988458 | F8EDA450481FBCC083DE98B0A9E83C49 | FL4K: That was stealth? How have you survived this long?
+36 | 3 | 0 |   1078136202 | DE65E2DF4271D7CF94C2A58ADE38181F | Zane: Great, I'm sure there's some people on the moon who didn't hear that.
+37 | 0 | 0 |   1060535643 | 0658CEFB42F10B136C0CD5BEE17C9454 | Claptrap: Relax. On Pandora, it's actually super weird if something's NOT exploding!
+38 | 0 | 0 |   3639706343 | FC717EDF4131C93EE38439A71E569F9D | Claptrap: Now take your gun, recruit! You're gonna need it.
+39 | 0 | 0 |   2264745733 | E3A6783D478812089D5802BE3F14F919 | Claptrap: Today's weaponry includes a new gun mode. Try it out!
+40 | 0 | 0 |   1404796661 | EC5F2B374C884A0979FEC9BD85FCF1EC | Claptrap: These guns, like myself, aren't beholden to their primary function! I can dance! And SING! [singing] And some guns now include an alternate shooting mode! Try it out!
+41 | 0 | 0 |   2489923458 | 1C8ACE57476AAEE9AF8924A220F0D992 | Claptrap: Wait here. I'll talk my way in, become their king, and then you'll surprise-slaughter them in cold blood. Watch and learn, recruit!
+42 | 0 | 0 |   2821751692 | D676DBB44BDFA6CA5FC5A0A9D89CF0D1 | Claptrap: Helllooooo? Anyone there?
+43 | 0 | 0 |   1648561542 | 436338AD483361304883F18DD9E5BFE8 | Shiv: This is Shiv, holy influencer of the Children of the Vault! What do you want, Crapbot?
+44 | 0 | 0 |   4185332492 | 3F657E0F473EEE8F291BB88BE38B171E | Claptrap: Hello, bloodthirsty maniac. It is I, Claptrap, slayer of the Destroyer and Super-General of the Crimson Raiders. We have you completely surrounded. Open the gates now, and perhaps I will be merciful!
+45 | 0 | 0 |   2626214314 | B581328D41ACA57FFA8A4480C779F939 | Shiv: Uh... yeah. Let me think about that.
+46 | 0 | 0 |   3653678207 | 71D0B4194140B5E6954C418C9273176E | Claptrap: They might call themselves Children of the Vault, but they're still bandits, and bandits are incredibly stupid!
+47 | 0 | 0 |   2580273395 | B924B88342A724869F4F86962635744F | Shiv: Okay, we're going to surrender! Please don't kill us, Crapbot.
+48 | 0 | 0 |   4220306766 | CCD540EE4EFA0EB07D8841B153133459 | Claptrap: That's what I thought! Open the doors immediately for your new king!
+49 | 0 | 0 |     83332052 | 95358BEB4A450287429CEBA393DAB3EE | Shiv: Easy, easy. I'm, uh... I'm coming out. Just wait. Right. There!
+50 | 0 | 0 |    501566802 | 1B88911F4639FD264F3807AA6C9DAB3B | Claptrap: We did it... I did it! Another victory for the Crimson Raiders. Hey, I feel funny. What's... happening to me?
+51 | 0 | 0 |   1658309027 | B74C5FD34B95A46DC7BF0AB495356D3C | Shiv: Gahahahahaha! Agahagaha!
+52 | 0 | 0 |   3264139615 | 6C50742D487A1E549938E5BF60E73A27 | Claptrap: Gah!
+53 | 0 | 0 |   2832704133 | 0013141C4874C1BDE42D69BD1A6E19C4 | Claptrap: Whoa—aagh!
+54 | 0 | 0 |   3995431327 | 1E2228F545B8B3CA186D10815D4E3B1B | Claptrap: Ow! My exhaust port.
+55 | 0 | 0 |   1153532303 | 647D4C134CDC03B232B1EDB9F8E1FEA8 | Claptrap: Hey, HEY! Let go of me!
+56 | 0 | 0 |   2600266741 | D35466BE4A97BE833E2A88936B1D6004 | Claptrap: Help!
+57 | 0 | 0 |    713448601 | E37F98BA4B9CD8912B995AB1C1A2FDF7 | Shiv: Kill the heretics! In the name of the Calypsos!
+58 | 0 | 0 |    631194833 | 7CFA8637491B2A204E6A089BC9664D4A | Claptrap: Recruit! They've seen through my air-tight ruse! Save me!
+59 | 0 | 0 |   2833381319 | 2D92F5CA4111BB9AB0AE079B3AE58FCF | Claptrap: Take this ammo, recruit!
+59 | 0 | 1 |   1844568939 | C1867D6D429523D0B90B85A87FC89472 | Claptrap: Use this ammo to kill the bad guys!
+59 | 0 | 2 |   2091380520 | E784C8614D6E3EA60D389BA9F2B470E8 | Claptrap: Put these bullets into the bad guys! That's a direct order!
+60 | 0 | 0 |   2237381292 | 35B4BA2C4BC408FABA1EB982B016FC83 | Claptrap: Heal your wounds, recruit!
+60 | 0 | 1 |   1070509709 | 1C191FD14327057A17BA7E973874143C | Claptrap: Use this health! I need you alive to save me!
+60 | 0 | 2 |   2084415464 | 01676FEF4C0C965380BABA93C73ACAEC | Claptrap: This could save your life! Then you owe me a life debt!
+61 | 0 | 0 |   1845105727 | 53F6148B49762525721C82A4633138F7 | Claptrap: Take these supplies!
+61 | 0 | 1 |   4232149890 | 883610A84D66A8E4A955BD8ACB439C85 | Claptrap: I'm giving you everything I got!
+61 | 0 | 2 |   1137599549 | 1AD0641F404A959398F523886A1297E4 | Claptrap: Use this to shoot people and not die!
+62 | 0 | 0 |   1447418407 | CC1587F1413CFF79059311954BD29AC0 | Claptrap: Save me!
+62 | 0 | 1 |   3137648694 | 226635E74A5CBA1B3E9B4FA375AB5BB6 | Claptrap: What's taking so long?!
+62 | 0 | 2 |   3211040128 | 180CF41142A3DA8E47C84E8B99A87B68 | Claptrap: Get me down!
+63 | 0 | 0 |   1838390820 | 3B9F96FA4C6902774130CCB6E7DAE30D | Shiv: Crapbot, you're gonna be my new chamberpot! I'm gonna poop in your head! Gahaha!
+64 | 0 | 0 |    209388144 | DD869EC643C1EE9A98E70D8EB9C3C18C | Claptrap: NOOO! RECRUUUUUIT!
+65 | 0 | 0 |   4106817688 | 59756A6941640311314FD8ABA9D6B9EC | Shiv: Crapbot, I'm gonna turn you into an electric shaver! For my butt!
+66 | 0 | 0 |    757006338 | 94D4F82D4324AB1E633F29A0CCA3C61C | Claptrap: I'm not designed for that!
+67 | 0 | 0 |   3719398166 | 9321F3F04A0D77946FDC6E8C0BF30A97 | Lilith: I know Claptrap can be a little... Claptrap, but he's still one of us. You're gonna have to save him. I'll be there soon.
+68 | 0 | 0 |   3992412519 | C5B216E545C5EAE8F109B4B985EDA315 | Claptrap: Recruit! There's no way your supple and delicate body can survive a showdown with Shiv unprotected! Look around for a shield!
+69 | 0 | 0 |   1429675390 | E123EAEE4790BDC52DF5D58ABD087012 | Claptrap: There might be a shield in that special red chest over there!
+70 | 0 | 0 |   2009795340 | 45B29B6D418A746F32D7488612F44507 | Claptrap: You better find some protection before you take on Shiv!
+70 | 0 | 1 |    926930400 | 2A8119E742F6021E861D4FB6EB910068 | Claptrap: Look around for a shield, recruit! Try that red chest!
+70 | 0 | 2 |   1328529039 | 186088884CBBB59B42EF1ABC9CE426F3 | Claptrap: Did you find a shield yet?
+70 | 0 | 3 |   1419639539 | 8E11E50040A21D045D48E0BF677C668D | Claptrap: I'm sure there's a shield around here somewhere. Like in the red chest that I already told you about.
+71 | 0 | 0 |   2447952143 | D356031049A7DC814F0FDD88C1A38400 | Claptrap: You got a shield! Now you're invincible! Not really, but it just might keep Shiv from killing you in one hit! Now let's get you in there, recruit!
+72 | 0 | 0 |   1572046226 | 00CF47604E0145E6514C5C976E3F626F | Claptrap: Hey, Shiiiiv! All your dumb friends are dead! I challenge you to a trial by combat! But because I'm stuck to this magnet, my loyal champion shall vanquish you in my stead.
+73 | 0 | 0 |   4265073279 | 81EEE64546F4BBC526B8209C655E070E | Shiv: Come on in, heretic! I haven't met my sacrifice quota for the day!
+74 | 0 | 0 |   2897737092 | EDC1606C47574716B280B3948B78CB4F | Shiv: I'm gonna sharpen my blade on your spine!
+75 | 0 | 0 |    846102441 | 5DE152A94B57E6FE5E16DF89C9BD95E0 | Moze: That's a KIA on the knife-wielding maniac. Super dead.
+75 | 1 | 0 |   1690571267 | E941A4C04E17D3CAB689CA9F2C8764CE | Amara: Knocked out in the first round. Hnh. I thought Pandora was going to give me a challenge!
+75 | 2 | 0 |   2073147401 | B0F299AE455A2DF66715B9B5183412E6 | FL4K: It seems the humans on Pandora are even more savage than the beasts.
+75 | 3 | 0 |    873817416 | 31136D97435A8F31EB1C6C9958170392 | Zane: Seemed like a nice enough fella, all things told. My kinda maniac.
+76 | 0 | 0 |    400450398 | 66FA7C2F4469FEE059F748A399531F39 | Claptrap: Recruit? Are you dead? If not, get me down! The controls are on the second floor!
+77 | 0 | 0 |   2315869478 | F4B83A55416EC44721953EBD6E7D5794 | Lilith: Score one for the Crimson Raiders. You and Claptrap secure the area. I'm on my way.
+78 | 0 | 0 |   3854278687 | 67C7A5584966D57C3228AB9E39AFABBA | Claptrap: The magnet controls are on the second floor.
+78 | 0 | 1 |   3189521367 | 463FDE914497D9278B36F8A7DFD3C840 | Claptrap: Recruit, hurry up! Get to the magnet controls and save me!
+78 | 0 | 2 |   3525917053 | 120087D540FB8D355A188FA649D5ABC3 | Claptrap: Hellooo? Recruit? Did you abandon the Crimson Raiders? If not, find the magnet controls!
+78 | 0 | 3 |    725574222 | C67168824157044C5B598082F145C469 | Claptrap: Recruit! Get off your inferior posterior. The controls to the magnet are on the second floor!
+79 | 0 | 0 |   2386753426 | CBCBC78F4A3D8951B52BEBAE3857A2B9 | Claptrap: You ARE alive! Get me down!
+80 | 0 | 0 |   2224295529 | 6077DD4D47220A08AFF763984A249D9C | Claptrap: You did it! I'm sa—aghh!
+81 | 0 | 0 |   3697429760 | 365DD4CB4BB8208CEE386E8445A0AC55 | Claptrap: Oof!
+82 | 0 | 0 |   2340248165 | DFD927A94B99CB349214D896EB81DEB1 | Claptrap: Hnnngh... ah!
+83 | 0 | 0 |   2703439222 | FF32BA8F4DAF0A42DB423FA3B355429E | Claptrap: Wow. I did it! I single-handedly took on the COV and sent them packing! Now all that's left is to signal Lilith that the mission is complete!
+84 | 0 | 0 |    525980764 | 40CD4FD745F82505FCB96F91F844EF9C | Lilith: S'up.
+85 | 0 | 0 |    605129578 | 2EB15C1843C31C1669C9CCBFCD06DDE8 | Claptrap: Lilith! I can safely report that Operation Trojan Claptrap was a complete success! I did it all by myself!
+86 | 0 | 0 |    394678256 | 5F7013A649C79414759794AADD5869A8 | Lilith: I'll bet.
+87 | 0 | 0 |   1210223110 | 3971E7C14DDCD493F377C8992FC463FA | Lilith: Well, the cult's destroyed every other Crimson Raider stronghold, so this'll have to do for now.
+88 | 0 | 0 |   3555448135 | FD29A5B947AACFA4EF7F9A83209125FF | Lilith: Hey, killer. Let's chat.
+89 | 0 | 0 |    151002860 | 9B238FDE4D08C8887FB9C9B62290BE29 | Lilith: So, what's your name, killer?
+90 | 0 | 0 |   1449087092 | ACF0B60D4A8BE64AD8690B832B47EFCE | Moze: Moze. And you're the voice in my head, right?
+90 | 1 | 0 |   1811177316 | FB2FA96E4626379E5CE7FDB4855E08F2 | Amara: I am Amara. Nice tattoos, Siren sister. You must be the voice in my head.
+90 | 2 | 0 |   1021386682 | C9BEF79D41EDE55C7B8EA7AE8C9B500F | FL4K: I'm FL4K. And your voice was in my head. Explain yourself.
+90 | 3 | 0 |   2394064863 | B2D835F44FCAA6C32A7B77AFF0CC4E27 | Zane: I'm Zane. And you're the lady from my brain!
+91 | 0 | 0 |   1515026217 | E826DB6143F79CD5B584589649C2E06A | Lilith: Yeah, about that... not the weirdest thing you're gonna see on Pandora. But seriously—thanks for answering my call. We might not have the numbers, but with a badass like you, we've got a fighting chance. Welcome to the Crimson Raiders.
+
