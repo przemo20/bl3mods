@@ -124,19 +124,28 @@ def main():
                                 for perf_idx, perf in enumerate(linedata['Performances']):
                                     perfdata = data[perf['export']-1]
                                     try:
-                                        text = perfdata['Text']['string']
+                                        textdata = perfdata['Text']
+                                        try:
+                                            text = textdata['string']
+                                        except KeyError as e:
+                                            print(f'*** {e.args[0]} key for GUID {perfdata['Guid']} is missing! ***')
+                                            text = '<missing>'
+                                        try:
+                                            text_key = textdata['key']
+                                        except KeyError as e:
+                                            print(f'*** {e.args[0]} key for GUID {perfdata['Guid']} is missing! ***')
+                                            text_key = '<missing>'
                                     except KeyError as e:
                                         print(f'*** {e.args[0]} key for GUID {perfdata['Guid']} is missing! ***')
                                         text = '<missing>'
-                                    try:
-                                        text_key = perfdata['Text']['key']
-                                    except KeyError as e:
-                                        print(f'*** {e.args[0]} key for GUID {perfdata['Guid']} is missing! ***')
                                         text_key = '<missing>'
                                     try:
                                         SoundFileName = perfdata['WwiseEventShortID']
                                     except KeyError as e:
-                                        print(f'*** {e.args[0]} key for GUID {perfdata['Guid']} is missing! ***')
+                                        try:
+                                            print(f'*** {e.args[0]} key for GUID {perfdata['Guid']} is missing! ***')
+                                        except:
+                                            print(f'*** {e.args[0]} key for Key {perfdata['Text']['key']} is missing! ***')
                                         SoundFileName = '<missing>'
                                     results[guid].append(f'{time_idx} | {line_idx} | {perf_idx} | {SoundFileName : >12} | {text_key} | {speaker}: {text}')
                     except KeyError as e:
